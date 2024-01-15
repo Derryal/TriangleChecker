@@ -1,0 +1,16 @@
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\bin\Debug\net8.0-windows\TriangleChecker.exe
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\bin\Debug\net8.0-windows\TriangleChecker.deps.json
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\bin\Debug\net8.0-windows\TriangleChecker.runtimeconfig.json
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\bin\Debug\net8.0-windows\TriangleChecker.dll
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\bin\Debug\net8.0-windows\TriangleChecker.pdb
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.Form1.resources
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.csproj.GenerateResource.cache
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.AssemblyInfoInputs.cache
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.AssemblyInfo.cs
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.csproj.CoreCompileInputs.cache
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.dll
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\refint\TriangleChecker.dll
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.pdb
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\TriangleChecker.genruntimeconfig.cache
+C:\Users\miste\source\repos\TriangleChecker\TriangleChecker\obj\Debug\net8.0-windows\ref\TriangleChecker.dll
